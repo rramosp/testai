@@ -2,7 +2,7 @@
 
 este es un repo de ejemplo
 
-con otra modificacion
+con otra modificacion corregida a mi manera
 
 primera modif del desarrollador 1
 
